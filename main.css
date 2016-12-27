@@ -1,4 +1,24 @@
+.{
+	font-family: 'Arima Madurai',cursive;
+}
 body{
-	background:url(number.jpg)no-repeat;
-	background-size:cover;
+	background:rgba(114, 44, 132, 0.5);
+}
+.container{
+	margin:200px auto;
+}
+input{
+	background:#CCC;
+	padding:3px 3px 3px 30px;
+	border-radius:5px;
+	border:1px solid #CCC;
+	width:70px;
+}
+button{
+	border-radius:5px;
+	border:1px solid #000;
+	background:#000;
+	color:#FFF;
+
+
 }
